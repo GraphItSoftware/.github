@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-# 🟢 Graphit Software
+# 🟢 Ship Codes Software
 
-**Graphit** is a forward-thinking organization dedicated to developing innovative tools that streamline and enhance the software development process.
+**Ship codes** is a forward-thinking organization dedicated to developing innovative tools that streamline and enhance the software development process.
 
 ### 🎯 Our Mission
-At **Graphit Software**, we are committed to simplifying the complexities of software architecture and development. We aim to provide developers with the tools they need to adapt to all sorts of codebases as quickly as possible and start contributing to them.
+At **Ship Codes Software**, we are committed to simplifying the complexities of software architecture and development. We aim to provide developers with the tools they need to adapt to all sorts of codebases as quickly as possible and start contributing to them.
 
 ### 🌟 Core Values
 - **🚀 Innovation**: Continuously pushing the boundaries of what’s possible in software development.
